@@ -2,7 +2,6 @@
   "manifest_version": 3,
   "name": "SecurePass",
   "version": "1.0",
-  "description": "Generate secure passwords, check their strength, and detect vulnerabilities.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": "assets/icon.png"
