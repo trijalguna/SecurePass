@@ -18,4 +18,5 @@ Any website containing a password field will contain an automatically provided "
 ### 1. Download the Extension
 
 Clone or download this repository to your machine:
-```bash git clone https://github.com/your-username/smartpass-extension.git
+```bash
+git clone https://github.com/your-username/smartpass-extension.git
